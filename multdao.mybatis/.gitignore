@@ -1,0 +1,8 @@
+/target/
+/.settings/
+.classpath
+.project
+.idea
+community-server.iml
+logs
+.iml
